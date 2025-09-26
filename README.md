@@ -1,2 +1,6 @@
-# RubyGloom
-Landing Page For Link and Resources for the Band "Ruby Gloom"
+
+<h1>RUBY gloom </h1>
+<b>
+hello
+</b>
+<p> This is band page for Ruby gloom ^_^</p>
