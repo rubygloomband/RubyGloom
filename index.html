@@ -1,13 +1,31 @@
----
-layout: presentation
----
+<html>
+<img src="website title card sept 27.png" alt=":(" />
 
-{% for post in site.posts reversed %}
-	{% include slide.html %}
-	<div class="page-break"></div>
-{% endfor %}
-{% unless site.simple-slideshow %}
-{% if site.overview %}
-<section id="overview" class="step" {% for attr in site.overview-data %} data-{{attr[0]}}="{{attr[1]}}"{% endfor %}></section>
-{% endif %}
-{% endunless %}
+<h1 align="center">
+  <span style="font-family: 'Impact', 'Arial Black', sans-serif; font-size: 3em; font-weight: bold;">
+    Ruby Gloom
+  </span>
+</h1>
+
+<p align="center">
+  Toronto based independent band at the crossroads of Nirvana and Elliot Smith.
+</p>
+
+<p align="center">
+  <a href="https://rubygloom.bandcamp.com/">🎧 Download Free on Bandcamp</a>
+</p>
+<p align="center">
+  <a href="https://rubygloom.bandcamp.com/">🎧 Listen on Spotify</a>
+</p>
+<p align="center">
+  <a href="https://rubygloom.bandcamp.com/">Watch Our Music Video on YouTube</a>
+</p>
+<img src="photos.png" alt=":(" />
+
+
+<p align="center">This website was written by David Hunter Studios and hosted by GitHub</p>
+<p align="center">The name Ruby Gloom is based on art by Martic Hsu </p>
+<p align="center">
+  <a href="https://www.martinhsudesign.com/ruby-gloom-book-illustrations">Martin Hsu Design</a>
+</p>
+</html>
