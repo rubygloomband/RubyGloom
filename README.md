@@ -1,3 +1,6 @@
+
+<img src="website title card sept 27.png" alt=":(" />
+
 <h1 align="center">
   <span style="font-family: 'Impact', 'Arial Black', sans-serif; font-size: 3em; font-weight: bold;">
     Ruby Gloom
@@ -5,7 +8,7 @@
 </h1>
 
 <p align="center">
-  Toronto based independent musician at the crossroads of Nirvana and Elliot Smith.
+  Toronto based independent band at the crossroads of Nirvana and Elliot Smith.
 </p>
 
 <p align="center">
