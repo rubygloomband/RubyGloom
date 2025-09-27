@@ -12,6 +12,19 @@
 </p>
 
 <p align="center">
-  <a href="https://rubygloom.bandcamp.com/">🎧 Listen on Bandcamp</a>
+  <a href="https://rubygloom.bandcamp.com/">🎧 Download Free on Bandcamp</a>
+</p>
+<p align="center">
+  <a href="https://rubygloom.bandcamp.com/">🎧 Listen on Spotify</a>
+</p>
+<p align="center">
+  <a href="https://rubygloom.bandcamp.com/">Watch Our Music Video on YouTube</a>
 </p>
 <img src="photos.png" alt=":(" />
+
+
+<p align="center">This website was written by David Hunter Studios and hosted by GitHub</p>
+<p align="center">The name Ruby Gloom is based on art by Martic Hsu </p>
+<p align="center">
+  <a href="https://www.martinhsudesign.com/ruby-gloom-book-illustrations">Martin Hsu Design</a>
+</p>
