@@ -14,3 +14,4 @@
 <p align="center">
   <a href="https://rubygloom.bandcamp.com/">🎧 Listen on Bandcamp</a>
 </p>
+<img src="photos.png" alt=":(" />
